@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odd or Even Integers", "Odd or Even Integers\Odd or Even Integers.csproj", "{0D66DF51-3CEE-4DB3-90A2-8CD3C2CDA31C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gravity", "Gravity\Gravity.csproj", "{022C6B1D-2B9F-4E32-AC24-07223AA62BEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D66DF51-3CEE-4DB3-90A2-8CD3C2CDA31C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D66DF51-3CEE-4DB3-90A2-8CD3C2CDA31C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D66DF51-3CEE-4DB3-90A2-8CD3C2CDA31C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D66DF51-3CEE-4DB3-90A2-8CD3C2CDA31C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{022C6B1D-2B9F-4E32-AC24-07223AA62BEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{022C6B1D-2B9F-4E32-AC24-07223AA62BEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{022C6B1D-2B9F-4E32-AC24-07223AA62BEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{022C6B1D-2B9F-4E32-AC24-07223AA62BEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
