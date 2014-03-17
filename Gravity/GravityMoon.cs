@@ -17,7 +17,6 @@ namespace Gravity
             Console.Write("Please enter your weight on Earth in kg (81,2) : ");
             double weight, moonWeight;
             weight = Double.Parse(Console.ReadLine());
-
             moonWeight = weight * 0.17;
             Console.WriteLine("Your weight on the moon will be: {0}", moonWeight);
 
